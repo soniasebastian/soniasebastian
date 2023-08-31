@@ -46,7 +46,7 @@
   ||        Full Stack Skills  ||                              
   | ------------- | ------------ | ------------------ |
   | Vanilla HTML  | Vanilla CSS  | Vanilla JavaScript |
-  | React         | GraphQL      | Apollo Atlas & Compass |
+  | React         | GraphQL      | Mongo Atlas & Compass |
   | MySQL & NoSQL | MongoDB      | jQuery             |
   | Node.js | Express.js | NPM & NPX | 
   | Insomnia | Jest | Postman |
