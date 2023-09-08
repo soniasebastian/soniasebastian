@@ -22,7 +22,7 @@
 </h1>
 
 <br>
-<p align="center">
+<p align="left">
   Hello World 👋,
   <br>
   👩‍🏫I am a passionate Full Stack Web developer in MERN Stack residing in Greater Toronto Area.
