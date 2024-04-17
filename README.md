@@ -27,15 +27,15 @@
 <p align="left">
   Hello World 👋,
   <br>
-  👩‍🏫I am a passionate Full Stack Web developer in MERN Stack residing in Greater Toronto Area.
+  👩‍🏫I am a passionate Cloud/DeVops/Full Stack Web developer residing in Greater Toronto Area.
   <br>
-  🔬 I'm currently learning Advanced course in React.
+  🔬 I'm currently learning Cloud.
   <br>
   🎓 I graduated from Anna University, Chennai with a Bacherlors degree in Engineering.
   <br>
   💻 I love to code and learn new technologies.
   <br>
-  📚 I’m currently learning how to create new projects with Advanced React.
+  📚 I’m currently learning how to create new projects with DeVops.
   <br>  
   💬 Ask me anything about from <a href="https://github.com/soniasebastian/soniasebastian/issues" title="Issues">Here</a>
   <br>
