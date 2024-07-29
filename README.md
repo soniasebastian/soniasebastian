@@ -27,7 +27,7 @@
 <p align="left">
   Hello World 👋,
   <br>
-  👩‍🏫I am a passionate Cloud/DeVops/Full Stack Web developer residing in Greater Toronto Area.
+  👩‍🏫I am a passionate Cloud/DevOps/Full Stack Web developer residing in Greater Toronto Area.
   <br>
   🔬 I'm currently learning Cloud.
   <br>
