@@ -35,7 +35,7 @@
   <br>
   💻 I love to code and learn new technologies.
   <br>
-  📚 I’m currently learning how to create new projects with DeVops.
+  📚 I’m currently learning how to create new projects with DevOps.
   <br>  
   💬 Ask me anything about from <a href="https://github.com/soniasebastian/soniasebastian/issues" title="Issues">Here</a>
   <br>
