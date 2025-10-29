@@ -62,16 +62,6 @@
 | Bootstrap | Tailwind CSS | jQuery |
 | Insomnia | Postman | Heroku |
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soniasebastian&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soniasebastian&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
 
 <p align="center">✨ “Keep learning, keep building, and stay curious.” ✨</p>
