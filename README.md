@@ -49,7 +49,7 @@
 
 <hr>
 
-<h2 align="center">☁️ DevOps & Cloud Skills ☁️</h2>
+<h2 align="left">☁️ DevOps & Cloud Skills ☁️</h2>
 
 | Cloud Platforms | CI/CD & Automation | Containers & Infrastructure | Security & APIs |
 | :------------- | :------------- | :------------- | :------------- |
@@ -61,7 +61,7 @@
 
 ---
 
-<h2 align="right">💻 Full Stack Skills 💻</h2>
+<h2 align="left">💻 Full Stack Skills 💻</h2>
 
 | Frontend | Backend | Database |
 | :------------- | :------------- | :------------- |
