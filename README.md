@@ -61,7 +61,7 @@
 
 ---
 
-<h2 align="center">💻 Full Stack Skills 💻</h2>
+<h2 align="right">💻 Full Stack Skills 💻</h2>
 
 | Frontend | Backend | Database |
 | :------------- | :------------- | :------------- |
