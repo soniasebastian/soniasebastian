@@ -38,7 +38,7 @@
 
 <p align="left">
   Hello World 👋,<br>
-  👩‍💻 I am a passionate <b>Cloud | DevOps | Backend development </b> residing in Greater Toronto Area.<br>
+  👩‍💻 I am a passionate <b>Cloud | DevOps | Backend development Engineer </b> residing in Greater Toronto Area.<br>
   ☁️ Currently diving deep into <b>Cloud technologies</b> and <b>DevOps automation</b>.<br>
   🎓 Graduated from <b>Anna University, Chennai</b> with a Bachelor's degree in Engineering.<br>
   💻 I love building, deploying, and optimizing modern web applications.<br>
