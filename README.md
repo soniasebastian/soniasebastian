@@ -1,7 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=soniasebastian.soniasebastian">
 
 <br>
-
   <p align="center">
   <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="60" height="60"/>
